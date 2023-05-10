@@ -1,0 +1,48 @@
+#contain{
+    background-color: rgb(240, 249, 120);
+    width: 520px;
+    height: 58px;
+    padding-right:0px ;
+    
+}
+.whole{
+    position: relative;
+    padding: 10px 20px 40px 20px;
+    margin-bottom: 50px;
+    border-color: yellow;
+    
+}
+#body{
+    height: 100px;
+    width: 550px;
+    padding-bottom: 450px;
+    margin-bottom: 450px;
+    padding-left: 450px;
+    
+}
+
+.invisible{
+ background-color: #aabccc;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-left: 25px;
+ padding-right: 45px;
+ width: 450px;
+ margin-top: 0px;
+ width: 15;
+}
+#para{
+padding-left: 4px;
+}
+#distance{
+padding-left: 7px;
+}
+#search{
+padding-left: 8px;
+}
+#direction{
+    margin-bottom: 500px;
+    font-style: italic;
+    font-weight: bold;
+    text-overflow: ellipsis;
+}
